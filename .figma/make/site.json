@@ -1,0 +1,10 @@
+{
+  "description": "A modern platform for a university tech club enabling member registration with live previews, admin approval, and a searchable team directory.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
